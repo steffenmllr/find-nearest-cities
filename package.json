@@ -9,6 +9,7 @@
   },
   "files": [
     "index.js",
+    "README.md",
     "cities1000.json"
   ],
   "repository": {
