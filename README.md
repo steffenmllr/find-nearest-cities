@@ -54,6 +54,7 @@ const cities = nearestCities(latitude, longitude);
 //    distance: 1281
 // }]
 
+```
 ---
 
 ## API
