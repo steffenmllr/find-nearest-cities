@@ -13,6 +13,8 @@ Searches the nearest *cities*, using [geokdbush](https://github.com/mourner/geok
 npm install find-nearest-cities
 ```
 
+## Warning: Package Size
+This package includes the full 56MB JSON for all the cities, which are all loaded into memory
 
 ## Usage
 
